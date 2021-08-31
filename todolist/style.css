@@ -1,0 +1,83 @@
+    td {
+        padding: 10px;
+        font-size: 110%;
+    }
+    
+    td,
+    th {
+        border: none;
+        border-radius: 5px;
+    }
+    
+    body {
+        background-color: rgb(170, 3, 11);
+    }
+    
+    * {
+        padding: 0px;
+        margin: 0px;
+        font-family: 'Lobster', cursive;
+        text-decoration: solid;
+        color: rgb(251, 255, 2);
+    }
+    
+    div {
+        font-size: 105%;
+        position: sticky;
+        overflow: hidden;
+        text-align: center;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    
+    table {
+        font-size: 105%;
+        position: sticky;
+        overflow: hidden;
+        text-align: center;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    
+    . i:hover {
+        cursor: pointer;
+    }
+    
+    input {
+        height: 55px;
+        width: 300px;
+        color: bisque;
+    }
+    
+    input[type=text] {
+        background-color: #3CBC8D;
+        color: rgb(0, 0, 0);
+    }
+    
+    button {
+        font-size: 120%;
+        width: 200px;
+        height: 120px;
+        background: none;
+        border: none;
+    }
+    
+    input {
+        border: none;
+        color: black;
+        border-radius: 5px;
+        font-size: large;
+        transition: all .2s ease .01s;
+        border: 3px solid rgb(251, 255, 2);
+    }
+    
+    input:hover {
+        cursor: pointer;
+        border: 20px;
+        transition: all .2s ease .01s;
+        border: 0px solid rgb(251, 255, 2);
+    }
+    
+    div {
+        display: flexbox;
+    }
